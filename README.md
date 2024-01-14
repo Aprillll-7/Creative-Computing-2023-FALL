@@ -8,4 +8,6 @@ Course assignments for _DES 2325_
 [**Homework 4**](https://github.com/Aprillll-7/Creative-Computing-2023-FALL/tree/main/Homework_4): Creative moving graphics  
 [**Homework 5**](https://github.com/Aprillll-7/Creative-Computing-2023-FALL/tree/main/Homework_5): 3D modeling with controllable parameters in Processing  
 [**Homework 6**](https://github.com/Aprillll-7/Creative-Computing-2023-FALL/tree/main/Homework_6): Emergence system  
-[**Homework 7**](https://github.com/Aprillll-7/Creative-Computing-2023-FALL/tree/main/Homework_7): Fractals
+[**Homework 7**](https://github.com/Aprillll-7/Creative-Computing-2023-FALL/tree/main/Homework_7): Fractals  
+
+[**Final Project**](https://github.com/Aprillll-7/Creative-Computing-2023-FALL/tree/main/Final_Project): Generative VJ software
